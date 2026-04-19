@@ -1,6 +1,6 @@
 # RL Maze & Path-Finding Visual Simulator
 **ENSIA — Reinforcement Learning Project 2025/2026**  
-Team: Imene · Amira · Aya · Lina · Melynda
+Team: Imene Fatma Djelili · Amira Mereddef · Aya Khaldi · Lina Wafaa Bentiba · Melynda Hadj Ali
 
 ---
 
