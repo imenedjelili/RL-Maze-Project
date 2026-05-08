@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+visualizer/__pycache__/
+env/__pycache__/
+agent/__pycache__/
